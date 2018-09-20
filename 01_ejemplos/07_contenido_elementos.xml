@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<libro>
+  <titulo>El mundo de XML</titulo>
+  <producto id="33-657" medio="papel"></producto>
+  <capitulo>Introduccion a XML
+    <par>Que es html</par>
+    <par>Que es xml</par>
+  </capitulo>
+</libro>

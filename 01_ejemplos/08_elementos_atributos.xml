@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<mensajes>
+  <nota ID="001">
+    <para>Elisa</para>
+    <de>Pedro</de>
+    <titulo>Recordatorio</titulo>
+    <cuerpo>No olvides nuestra cita!</cuerpo>
+  </nota>
+  <nota ID="002">
+    <para>Juan</para>
+    <de>Francisco</de>
+    <titulo>Cita</titulo>
+    <cuerpo>Quedamos a comer en el Restaurante de abajo.</cuerpo>
+  </nota>
+</mensajes>

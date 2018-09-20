@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<email>
+  <!--  Destinatario del mensaje  -->
+  <para>Elisa</para>
+
+  <!--  Remitente del mensaje  -->
+  <de>Pedro</de>
+
+  <titulo>Recordatorio</titulo>
+  <cuerpo>No olvides nuestra cita</cuerpo>
+</email>

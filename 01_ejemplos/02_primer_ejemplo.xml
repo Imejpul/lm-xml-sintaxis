@@ -1,0 +1,17 @@
+<comedor>
+  <mesa tipo="redonda" madera="arce">
+    <fabricante>Muebles Albacete</fabricante>
+    <precio>4000</precio>
+  </mesa>
+  <silla madera="arce">
+    <cantidad>2</cantidad>
+    <calidad>excelente</calidad>
+    <cojin incluido="si">
+      <color>azul</color>
+    </cojin>
+  </silla>
+  <silla madera="roble">
+    <cantidad>3</cantidad>
+    <calidad>normal</calidad>
+  </silla>
+</comedor>
