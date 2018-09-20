@@ -10,15 +10,18 @@
                 <archivo>
                     <nombre>reedemerOfSouls.mp3</nombre>
                     <fechamod>01/08/2014</fechamod>
+                    <tamanyo>43345544543</tamanyo>
                 </archivo>
             </directorio>
             <archivo>
                 <nombre>lista.txt</nombre>
                 <fechamod>10/02/2010</fechamod>
+                <tamanyo>7653</tamanyo>
             </archivo>
             <archivo>
                 <nombre>grupos.txt</nombre>
                 <fechaMod>10/10/2010</fechaMod>
+                <tamanyo>7378534</tamanyo>
             </archivo>
         </directorio>
     </unidad>
