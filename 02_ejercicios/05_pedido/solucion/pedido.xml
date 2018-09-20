@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<pedidos>
+    <pedido id="001">
+        <fecha>20/02/2012</fecha>
+        <articulo>
+            <nombre>cortadora de cesped</nombre>
+            <codigo>872-AA</codigo>
+            <descripcion>manual, de doble corte</descripcion>
+            <precioEuros>148.95</precioEuros>
+        </articulo>
+        <cliente>
+            <nombre>Ricardo Movilla</nombre>
+        </cliente>
+        <factura>
+            <precioEuros>148.95</precioEuros>
+            <cantidad>1</cantidad>
+            <totalEuros>148.95</totalEuros>
+        </factura>
+        <envio>
+            <ciudad>Pamplona</ciudad>
+            <direccion>plaza de la duquesa 12</direccion>
+            <cp>31010</cp>
+            <envioUrg>0</envioUrg>
+            <notaEnvio>entregar a Ines Abad</notaEnvio>
+        </envio>
+    </pedido>
+    <pedido id="002">
+        <fecha>20/02/2012</fecha>
+        <articulo>
+            <nombre>podadora seto</nombre>
+            <codigo>926-FH</codigo>
+            <descripcion>cortadora tipo standard, alimentacion electrica</descripcion>
+            <precioEuros>7,98</precioEuros>
+        </articulo>
+        <cliente>
+            <nombre>Ricardo Movilla</nombre>
+        </cliente>
+        <factura>
+            <precioEuros>7.98</precioEuros>
+            <cantidad>3</cantidad>
+            <totalEuros>23.94</totalEuros>
+        </factura>
+        <envio>
+            <ciudad>vitoria-gazteiz</ciudad>
+            <direccion>avda. gazteiz 56</direccion>
+            <cp>01012</cp>
+            <envioUrg>1</envioUrg>
+            <notaEnvio>el cesped esta muy alto</notaEnvio>
+        </envio>
+    </pedido>
+</pedidos>

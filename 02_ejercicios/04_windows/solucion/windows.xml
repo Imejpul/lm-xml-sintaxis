@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<almacenamiento>
+    <unidad id="c:">
+        <directorio>
+            <nombre>musica</nombre>
+            <fechaMod>22/07/2014</fechaMod>
+            <directorio>
+                <nombre>JudasPriest</nombre>
+                <fechaMod>7/07/2014</fechaMod>
+                <archivo>
+                    <nombre>reedemerOfSouls.mp3</nombre>
+                    <fechamod>01/08/2014</fechamod>
+                </archivo>
+            </directorio>
+            <archivo>
+                <nombre>lista.txt</nombre>
+                <fechamod>10/02/2010</fechamod>
+            </archivo>
+            <archivo>
+                <nombre>grupos.txt</nombre>
+                <fechaMod>10/10/2010</fechaMod>
+            </archivo>
+        </directorio>
+    </unidad>
+</almacenamiento>

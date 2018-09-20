@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<faltas>
+    <asignatura id="Matemáticas">
+        <clase id="2A">
+            <alumno>
+                <nombre>Ibon</nombre>
+                <apellido>Fernández</apellido>
+                <fecha>12/12/12</fecha>
+                <hora>12:00</hora>
+            </alumno>
+            <nombre>Elisa</nombre>
+            <apellido>Ruiz</apellido>
+            <fecha>18/12/10</fecha>
+            <hora>13:00</hora>
+        </clase>
+        <clase id="2B">
+            <nombre>Maite</nombre>
+            <apellido>Elkorobarrutia</apellido>
+            <fecha>15/12/10</fecha>
+            <hora>14:00</hora>
+        </clase>
+        <clase id="3A">
+            <nombre>Miren</nombre>
+            <apellido>Luara</apellido>
+            <fecha>17/12/10</fecha>
+            <hora></hora>
+        </clase>
+    </asignatura>
+    <asignatura id="Informática">
+        <clase id="2A">
+            <nombre>Jose</nombre>
+            <apellido>Alonso</apellido>
+            <fecha>12/12/10</fecha>
+            <hora>12:00</hora>
+            <nombre>Gorka</nombre>
+            <apellido>Ruiz</apellido>
+            <fecha>18/12/10</fecha>
+            <hora>11:00</hora>
+        </clase>
+        <clase id="2B">
+            <nombre>Jokin</nombre>
+            <apellido>via</apellido>
+            <fecha>13/12/10</fecha>
+            <nombre>Amaia</nombre>
+            <apellido>Jaso</apellido>
+            <fecha>15/12/10</fecha>
+            <hora>10:00</hora>
+        </clase>
+    </asignatura>
+</faltas>

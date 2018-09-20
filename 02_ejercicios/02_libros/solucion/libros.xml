@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<amazon>
+    <libro id="001">
+        <titulo>Dilintxo. Maitagarrien sekretua</titulo>
+        <categoria>Klasikoak (aizkorri)</categoria>
+        <autor>Hitzurun y Gillenea Mujika</autor>
+        <fechaMaxEnv>16/09/2014</fechaMaxEnv>
+        <precio>13,06€</precio>
+        <tapaBlanda>s</tapaBlanda>
+        <stock>1</stock>
+        <ofertasNuevo>3</ofertasNuevo>
+        <ofertasUsado>0</ofertasUsado>
+        <envioGratis>s</envioGratis>
+        <portada>libro001.jpg</portada>
+    </libro>
+    <libro id="002">
+        <titulo>Bertan goxo</titulo>
+        <categoria>Ateko Bandan</categoria>
+        <autor>Karlos Linazasoro Izagirre</autor>
+        <fechaMaxEnv>16/09/2014</fechaMaxEnv>
+        <precio>9,74€</precio>
+        <tapaBlanda>s</tapaBlanda>
+        <stock>4</stock>
+        <ofertasNuevo>3</ofertasNuevo>
+        <ofertasUsado>0</ofertasUsado>
+        <envioGratis>s</envioGratis>
+        <portada>libro002.jpg</portada>
+    </libro>
+</amazon>
